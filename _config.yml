@@ -1,21 +1,15 @@
-### your site title here
-
 title: Sample Data for Change
-baseurl: /sampledataforchange # name of the repository
+baseurl: / # name of the repository
 email: john@lowlydba.com
-
-
 
 highlighter: rouge
 markdown: kramdown
-
 
 # Tracker
 analytics:
 
 # Comments
 disqus-shortname:
-
 
 #optimization
 #compress.html
@@ -28,7 +22,6 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
 
 sass:
  style: compressed
