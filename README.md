@@ -1,3 +1,3 @@
-# SampleDataForChange
+# Sample Data for Change
 
-Repository for the main website
+Leveraging sample and example data in technical documentation to increase awareness, diversity, and change in technical fields.

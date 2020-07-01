@@ -1,0 +1,41 @@
+### your site title here
+
+title: Sample Data for Change
+baseurl: /sampledataforchange # name of the repository
+email: john@lowlydba.com
+
+
+
+highlighter: rouge
+markdown: kramdown
+
+
+# Tracker
+analytics:
+
+# Comments
+disqus-shortname:
+
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+  
+
+sass:
+ style: compressed
+
+#exclude:
+#- README.md
+
+plugins:
+  - jemoji
+gems: [jekyll-seo-tag, jekyll-paginate, jemoji]
