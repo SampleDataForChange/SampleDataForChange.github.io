@@ -16,7 +16,7 @@ should seek to embody the following as closely as possible:
 
 Do:
 
-* Promote objectively important topics, like human rights and [ACLU issues][aclu]
+* Promote objectively important topics, like human rights and [issues identified by the ACLU][aclu]
 * Integrate into documentation where random examples formerly existed
 * Leverage educational data sets for unit testing and demos when appropriate
 
@@ -34,5 +34,5 @@ Don't:
 
 Want to add your project? [Open an issue][issue] to join and spread the :heart:.
 
-[issue]: https://github.com/LowlyDBA/sampledataforchange/issues
+[issue]: https://github.com/SampleDataForChange/SampleDataForChange.github.io/issues
 [aclu]: https://www.aclu.org/
