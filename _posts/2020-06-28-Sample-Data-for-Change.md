@@ -26,9 +26,13 @@ Don't:
 * Distract from the primary purpose of the documentation
 * Decrease accessibility, readability, or functionality
 
+## Data Sources
+
+* [Database version of Washington Post's police shooting dataset][wapo]
+
 ## Participating Projects
 
-*To be added.*
+* [SQL Server Management Studio Icon Ref][ssms]
 
 ## Join
 
@@ -36,3 +40,5 @@ Want to add your project? [Open an issue][issue] to join and spread the :heart:.
 
 [issue]: https://github.com/SampleDataForChange/SampleDataForChange.github.io/issues
 [aclu]: https://www.aclu.org/
+[wapo]: https://github.com/SampleDataForChange/wapo-data-police-shootings
+[ssms]: https://github.com/LowlyDBA/ssms-icon-ref
