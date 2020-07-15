@@ -19,6 +19,7 @@ Do:
 * Promote objectively important topics, like human rights and [issues identified by the ACLU][aclu]
 * Integrate into documentation where random examples formerly existed
 * Leverage educational data sets for unit testing and demos when appropriate
+* Add our icon to your project: [![Sample Data For Change](https://img.shields.io/badge/Sample%20Data%20For%20Change-%E2%9D%A4-red)][sdfc]
 
 Don't:
 
@@ -42,3 +43,4 @@ Want to add your project? [Open an issue][issue] to join and spread the :heart:.
 [aclu]: https://www.aclu.org/
 [wapo]: https://github.com/SampleDataForChange/wapo-data-police-shootings
 [ssms]: https://github.com/LowlyDBA/ssms-icon-ref
+[sdfc]: https://sampledataforchange.github.io/
